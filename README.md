@@ -1,5 +1,6 @@
-# reactjs-dashboard-task
-Test task of React Js
+# Dashboard Test Task
 
-Install Dependencies: npm install
-Run Project: npm start
+Install Dependencies: **npm install**
+Run Project: **npm start**
+
+
